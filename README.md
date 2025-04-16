@@ -4,7 +4,7 @@
 
 Released on the App Store for commercial use (01/2025)
 
-App description:
+## App description:
 
 Transform your fitness journey with the ultimate workout tracker! 
 - Access over 400 pre-made exercises or create your own. 
@@ -15,7 +15,7 @@ Transform your fitness journey with the ultimate workout tracker!
 - Gain insights into your overall progress with muscular balance analytics and a visual muscle activation heat map.
 - Monitor bodyweight data on an intuitive chart.
 
-Developement:
+## Developement:
 
 - Learned Flutter from a comprehensive Udemy course (30h + exercises)
 - Designed UI in Figma and implemented frontend features
