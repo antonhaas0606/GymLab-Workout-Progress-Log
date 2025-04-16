@@ -1,4 +1,7 @@
 # GymLab-Workout-Progress-Log
+
+<img width="791" alt="image" src="https://github.com/user-attachments/assets/25a48e75-4634-4fac-81b6-f29377851391" />
+
 Released on the App Store for commercial use (01/2025)
 
 App description:
