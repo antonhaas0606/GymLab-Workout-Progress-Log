@@ -1,4 +1,4 @@
-# GymLab-Workout-Progress-Log
+# GymLab
 
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/27e92220-13eb-4ec0-88a4-42cdc9f27d8c" />
 
